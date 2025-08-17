@@ -1,10 +1,10 @@
 {
     "expo": {
         "name": "MovieFlix",
-        "slug": "mobile_movie_app",
+        "slug": "movieFlix",
         "version": "1.0.0",
         "orientation": "portrait",
-        "icon": "./assets/images/logo.png",
+        "icon": "./assets/images/splach-icon.png",
         "scheme": "movies",
         "userInterfaceStyle": "automatic",
         "newArchEnabled": true,

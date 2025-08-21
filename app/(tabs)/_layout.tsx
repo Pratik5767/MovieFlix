@@ -29,6 +29,7 @@ const _Layout = () => {
         <Tabs
             screenOptions={{
                 tabBarShowLabel: false,
+                headerShown: false,
                 tabBarItemStyle: {
                     justifyContent: 'center',
                     alignItems: 'center'
